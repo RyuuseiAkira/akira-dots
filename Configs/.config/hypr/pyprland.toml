@@ -1,0 +1,18 @@
+[pyprland]
+plugins = [
+  "expose",
+  "layout_center",
+  "lost_windows",
+]
+
+[expose]
+include_special = false
+
+[layout_center]
+margin = 60
+captive_focus = true
+offset = [0, 30]
+next = "movefocus r"
+prev = "movefocus l"
+next2 = "movefocus d"
+prev2 = "movefocus u"
