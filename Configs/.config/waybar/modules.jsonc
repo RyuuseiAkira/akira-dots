@@ -5,7 +5,7 @@
       "transition-duration": 300,
       "transition-left-to-right": false,
     },
-    "modules": ["custom/arrow-right","custom/fanmode","custom/cpuinfo","custom/updates", "custom/spotify"], //meow meow meow meow meow meow meow
+    "modules": ["custom/arrow-right","custom/updates", "custom/spotify"], //meow meow meow meow meow meow meow
   },
 
   "custom/cpuinfo": {
